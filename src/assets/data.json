@@ -1,35 +1,35 @@
-{
-    "cocktail1": {
+[
+    {
         "name": "Sex on the beach",
         "price": 10,
         "image": "https://media.istockphoto.com/id/1324239933/fr/photo/un-verre-de-cockitel-sunrise-sur-fond-de-soleil-d%C3%A9t%C3%A9-beach-paradise.jpg?s=612x612&w=0&k=20&c=jmRmCPEBYTQhEQ0uPJtvMC16PNxoY2zZ484OszEOo3s="
     },
-    "cocktail2": {
+    {
         "name": "Marguarita",
         "price": 13,
         "image": "https://media.istockphoto.com/id/916049866/fr/photo/cocktail-avec-de-la-chaux-classique-marguerite.jpg?s=612x612&w=0&k=20&c=b_FnaPCYfvMNNaV2zZ47BYaXwFCN5J3miFf5YPgVUpI="
     },
-    "cocktail3": {
+    {
         "name": "Martini",
         "price": 8,
         "image": "https://media.istockphoto.com/id/172430674/fr/photo/martini-dry.jpg?s=612x612&w=0&k=20&c=kJO8bIqjVPv71NvaU88GByyjIk_LPfL915oYBusi-Tw="
     },
-    "cocktail4":{
+    {
         "name": "Taquila Sunrise",
         "price": 8,
         "image": "https://media.istockphoto.com/id/168857810/fr/photo/tequila-sunrise-cocktail-sur-la-plage.jpg?s=612x612&w=0&k=20&c=e53K5NAczHNIEyr0dcxmsQ5fuyDj0ppyrlfeCycO5Dk="
   
     },
-    "cocktail5":{
+    {
         "name": "Cocktail Blue Hawaii",
         "price": 9,
         "image": "https://media.istockphoto.com/id/184383876/fr/photo/cocktail-blue-hawaii.jpg?s=612x612&w=0&k=20&c=AxAJdpLSpt9_3q7A9DRIK4W80zt_Qtk3rXiNdW4HUx8="
   
     },
-    "cocktail6":{
+    {
         "name": "Pina Colada",
         "price": 7,
         "image": "https://media.istockphoto.com/id/490435768/fr/photo/pina-colada-cocktail.jpg?s=612x612&w=0&k=20&c=nNHSRlzwBkvfGL2uc1HZqLLGt74F5ZMI2Yaw_w4Tqgw="
   
     }
-}
+]
